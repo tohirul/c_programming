@@ -1,5 +1,6 @@
 Format Report for Code
 =========================
+✅ Formatted: logical_operator.c
 ✅ Formatted: circle_circumference.c
 ✅ Formatted: celsius_farenheit.c
 ✅ Formatted: variables.c
