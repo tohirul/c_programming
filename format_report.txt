@@ -1,0 +1,11 @@
+Format Report for Code
+=========================
+✅ Formatted: circle_circumference.c
+✅ Formatted: celsius_farenheit.c
+✅ Formatted: variables.c
+✅ Formatted: if_condition.c
+✅ Formatted: switch_case.c
+✅ Formatted: circle_area.c
+✅ Formatted: highpotenuse.c
+✅ Formatted: calculator.c
+
