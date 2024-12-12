@@ -48,6 +48,7 @@ obj/
 *.pdb
 *.idb
 *.ilk
+format_report.txt
 
 # Logs
 *.log
