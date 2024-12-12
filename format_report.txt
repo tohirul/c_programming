@@ -1,12 +1,19 @@
 Format Report for Code
 =========================
 ✅ Formatted: logical_operator.c
+✅ Formatted: fgets_string.c
+✅ Formatted: functions.c
+✅ Formatted: ternary_operator.c
 ✅ Formatted: circle_circumference.c
 ✅ Formatted: celsius_farenheit.c
+✅ Formatted: for_loop.c
+✅ Formatted: string_functions.c
+✅ Formatted: happy_birthday.c
 ✅ Formatted: variables.c
 ✅ Formatted: if_condition.c
 ✅ Formatted: switch_case.c
 ✅ Formatted: circle_area.c
+✅ Formatted: greeting_function.c
 ✅ Formatted: highpotenuse.c
 ✅ Formatted: calculator.c
 
