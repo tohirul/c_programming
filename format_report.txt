@@ -12,6 +12,7 @@ Format Report for Code
 ✅ Formatted: celsius_farenheit.c
 ✅ Formatted: for_loop.c
 ✅ Formatted: continue_break.c
+✅ Formatted: structs.c
 ✅ Formatted: string_functions.c
 ✅ Formatted: happy_birthday.c
 ✅ Formatted: do_while.c

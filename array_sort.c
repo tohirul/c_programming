@@ -13,22 +13,22 @@ int main() {
 
     sort_array(num_array, num_array_len);
 
-    printf("Sorted array in ascending order:\n");
+      printf("Sorted array in ascending order:\n");
     for (int i = 0; i < num_array_len; i++) {
-        printf("%d ", num_array[i]);
+          printf("%d ", num_array[i]);
         if (i == num_array_len - 1) {
-            printf("\n");
+              printf("\n");
         }
     }
     return 0;
 }
 
 void sort_array(int *arr, int len) {
-    for (int i = 0; i < len; i++) {
-        for (int j = 0; j < len - i -1; j++){
+    for (int i = 0; i < len - 1; i++) {
+        for (int j = 0; j < len - i - 1; j++) {
             if (arr[j] > arr[j + 1]) {
-                int temp = arr[j];
-                arr[j] = arr[j + 1];
+                int temp   = arr[j];
+                arr[j]     = arr[j + 1];
                 arr[j + 1] = temp;
             }
         }
