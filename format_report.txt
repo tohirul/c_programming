@@ -1,5 +1,6 @@
 Format Report for Code
 =========================
+✅ Formatted: structs_array.c
 ✅ Formatted: logical_operator.c
 ✅ Formatted: string_array.c
 ✅ Formatted: array_sort.c

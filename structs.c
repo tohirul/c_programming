@@ -26,7 +26,7 @@ int main() {
 
     player player2 = {"Jane", 30, 200};
     log__player(&player2);
-    
+
     return 0;
 }
 
